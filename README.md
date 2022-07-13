@@ -1,2 +1,2 @@
 # Meus-Primeiros-Passos-dev
-Nesse repositório, vamos ver meus primeiros passos como dev
+Nesse repositório, veremos meus primeiros passos como dev
